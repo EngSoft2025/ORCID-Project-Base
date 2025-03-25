@@ -6,7 +6,7 @@ Documentação para a realização do Trabalho da Disciplina SCC0130 - Engenhari
 
 ### 1.1. Grupos
 
-O trabalho deverá ser feito em grupos de até 5 alunos. Os alunos de um mesmo grupo podem ser de turmas (horários) diferentes.
+O trabalho deverá ser feito em grupos de até 5 alunos. Os alunos de um mesmo grupo devem ser, preferencialmente, da mesma turma (horário).
 
 ### 1.2. Entrega
 
